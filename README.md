@@ -23,10 +23,10 @@ This React application displays a list of employees with features like sorting, 
 ## API
 This application uses the DummyJSON Users API to fetch user data.
 
-- **Endpoint: https://dummyjson.com/users
-Query Parameters:
-limit: Number of records to fetch.
-skip: Number of records to skip.
+- Endpoint: https://dummyjson.com/users
+- Query Parameters:
+- limit: Number of records to fetch.
+- skip: Number of records to skip.
 
 
 
