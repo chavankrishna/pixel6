@@ -1,6 +1,29 @@
 Pixel6 coding assignment 
 
 
+
+# Employee Table with Sorting and Filtering
+
+This React application displays a list of employees with features like sorting, filtering, and infinite scrolling. It fetches data from the DummyJSON API and allows users to filter by country and gender, and sort by ID, Name, and Age.
+
+## Features
+
+- **Infinite Scrolling:** Automatically load more users as you scroll down.
+- **Sorting:** Click on table headers to sort by ID, Name, or Age.
+- **Filtering:** Select a country and gender to filter the list of employees.
+- **Dynamic Icons:** Sorting icons change color based on the sort order.
+
+## Tech Stack
+
+- **React:** A JavaScript library for building user interfaces.
+- **Redux:** State management for handling sorting and filtering logic.
+- **Tailwind CSS:** A utility-first CSS framework for styling.
+
+
+
+
+
+
 Home
 ![Screenshot (410)](https://github.com/user-attachments/assets/edf1709d-d452-4733-8899-54fcdfb7f252)
 
